@@ -20,3 +20,9 @@ sudo apt-get install -f -y
 
 #install gitbook editor
 sudo dpkg -i ~/Downloads/gitbook-editor-4.2.3-linux-x64.deb
+
+#install texlive (for latex and kernel mandocs)
+sudo apt-get install -y texlive texlive-doc-zh texlive-full
+
+#install texmaker (for latex)
+sudo apt-get install -y texmaker
