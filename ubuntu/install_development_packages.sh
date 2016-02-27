@@ -11,3 +11,9 @@ sudo dpkg -i ~/Downloads/sublime-text_build-3103_amd64.deb
 #install wingide python ide
 sudo dpkg -i ~/Downloads/wingide5_5.1.8-1_amd64.deb
 sudo apt-get install -f
+
+#ddd
+sudo apt-get install -y ddd
+
+#tmux
+sudo apt-get install -y tmux
