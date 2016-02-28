@@ -20,3 +20,6 @@ sudo apt-get install -y tmux
 
 #python idle2.7 idle3.4
 sudo apt-get install -y idle-python2.7 idle-python3.4
+
+#compare tools
+sudo apt-get install -y meld nautilus-compare
