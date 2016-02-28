@@ -10,3 +10,6 @@ sudo apt-get install -y p7zip-full
 
 #guake 下拉式terminal
 sudo apt-get install -y guake
+
+#byobu terminal
+sudo apt-get install -y byobu
