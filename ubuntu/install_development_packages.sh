@@ -23,3 +23,6 @@ sudo apt-get install -y idle-python2.7 idle-python3.4
 
 #compare tools
 sudo apt-get install -y meld nautilus-compare
+
+#automake tools
+sudo apt-get install libtool libtool-doc automake autoconf m4 m4-doc
