@@ -10,3 +10,6 @@ sudo apt-get install -y samba samba-vfs-modules
 
 #nmap
 sudo apt-get install -y nmap
+
+#lynx text browser
+sudo apt-get install -y lynx
